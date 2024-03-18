@@ -4,4 +4,5 @@
 
 ## Curso: CT Desenvolvimento de Sistemas - Turma I1HN - SESI Nova Odessa 
 
-Esta página tem como obejetivo de testar o markdown 
+
+*Eesta página* tem_como_ objetivo testar o **markdown**
